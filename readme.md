@@ -1,7 +1,7 @@
 # Adaptive Brightness of Video using Opencv
 ---
 ## Introduction
-This Script adjuct the brighness of video files so object inside image can be visible
+This Script adjust the brighness of video files so object inside image can be visible
 
 This Script uses the following module:
 
